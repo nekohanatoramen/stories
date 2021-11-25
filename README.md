@@ -384,6 +384,23 @@ jk
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3871.jpeg" width="400" title="hover text">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3872.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3873.jpeg" width="400" title="hover text">
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_1561.jpeg" width="400" title="hover text">
