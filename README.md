@@ -316,9 +316,14 @@
 </p>
 
 
+2021年新年第一天，有点寂寞，于是把ikea的鲨鱼搬来陪我了233
+
+
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0166.jpeg" width="400" title="hover text">
 </p>
+
+春天一个人去了布鲁克林植物园看樱花，用三脚架拍的，感觉一个人拍照有点怪怪的
 
 
 <p align="center">
@@ -332,6 +337,16 @@
 
 
 
+这个故事是： 
+
+因为我每天走的很晚，能碰见做卫生的阿姨，她有的时候会跟我聊两句。有一天她过来跟我说明天是她最后一天上班了，她被fire了。
+
+她很委屈，也确实是，我觉得她确实比别的员工更认真呢。而且她英语挺好的，其他做卫生的阿姨都只会说西语。
+当时她哭了，我抱着她也哭了😭
+
+第二天就在桌子上给她准备了点礼物（巧克力啥的），放了点钱。我跟学弟说我想给她100刀，我学弟说不好吧，于是我就放了40刀。
+
+第二天看见了她给我回的note。希望她能快点找到工作吧。
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0519.jpeg" width="350" title="hover text">
@@ -342,12 +357,11 @@
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0530.jpeg" width="350" title="hover text">
 </p>
 
+在程攀家吃年夜饭
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0528.jpeg" width="350" title="hover text">
 </p>
-
-
 
 
 7月的时候，master同学来纽约玩
