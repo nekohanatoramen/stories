@@ -124,6 +124,25 @@
 </p>
 
 
+我们破旧的实验室，在老生物楼三层，一共有三间屋子，这个是我们的休息室。暑假的时候我们经常干到后半夜才走。
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0139.jpeg" width="400" title="hover text">
+</p>
+
+
+刚刚提到了一个ucla来交换的同学，叫sherry，五岁的时候跟着父母从台湾移民到美国了，所以会说中文。
+
+交换生就涉及到住宿的问题了，因为是学生活动，所以不能住学校的留学生宿舍。我在队伍里又是个学姐，还是lab manager，于是。。。advisors就把给她找房子的任务交给我了。。。
+
+就是叫我去找房子，就没有然后了，也么有出钱，也没有说大家一起凑个钱什么的，羊毛就可着一只羊薅了😂
+
+当时14年北京的房价就很可怕了，2 3 千一个月，押一付三，钱都要我自己出，他们叫我先垫上回头给我报销，然后就不管了www
+我感觉我去做了可能还是因为手里有钱。。。
+
+感觉北京租房子比美国租房子难，就是找不到那种专门出租的公寓（可能也是我不懂）北大附近，能租的起的都是老破小。于是我还是尽了我当时的全力“拯救”了一下。然而美帝同学还是不太满意。
+
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0061.jpeg" width="400" title="hover text">
 </p>
@@ -133,10 +152,6 @@
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0062.jpeg" width="400" title="hover text">
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0139.jpeg" width="400" title="hover text">
-</p>
 
 
 
