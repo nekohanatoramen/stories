@@ -6,171 +6,7 @@
 那就从我能找到的最早的照片开始吧～ 
 
 
-#### others
 
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0587.jpeg" width="350" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_5904.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0424.jpeg" width="350" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0049.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0088.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0094.jpeg" width="400" title="hover text">
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6841.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6789.jpeg" width="400" title="hover text">
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_7057.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6861.jpeg" width="400" title="hover text">
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_7156.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_7035.jpeg" width="400" title="hover text">
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9942.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9993.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9994.jpeg" width="400" title="hover text">
-</p>
-
-
-
-jk
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0773.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_1538.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3111.jpeg" width="400" title="hover text">
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_5269.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_8311.jpeg" width="400" title="hover text">
-</p>
-
-
-
-
-#### 2014年 igem
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0061.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0062.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0139.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0063.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0092.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0093.jpeg" width="400" title="hover text">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0800.jpeg" width="400" title="hover text">
-</p>
 
 
 #### 在医院实习
@@ -198,10 +34,43 @@ jk
 
 
 
+#### 2014年 igem
 
 <p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6535.jpeg" width="400" title="hover text">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0092.jpeg" width="400" title="hover text">
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0800.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0093.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0061.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0062.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0139.jpeg" width="400" title="hover text">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0063.jpeg" width="400" title="hover text">
+</p>
+
 
 
 #### 2016年本科毕业
@@ -251,6 +120,14 @@ jk
 </p>
 
 
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6241.jpeg" width="400" title="hover text">
+</p>
+
+
+
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0051.jpeg" width="350" title="hover text">
 </p>
@@ -258,9 +135,13 @@ jk
 
 
 <p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6241.jpeg" width="400" title="hover text">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6644.jpeg" width="400" title="hover text">
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3573.jpeg" width="400" title="hover text">
+</p>
 
 
 #### 2018年8月
@@ -272,19 +153,9 @@ jk
 
 
 <p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6644.jpeg" width="400" title="hover text">
-</p>
-
-
-<p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0045.jpeg" width="400" title="hover text">
 </p>
 
-
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3573.jpeg" width="400" title="hover text">
-</p>
 
 
 #### 球球
@@ -297,6 +168,13 @@ jk
 
 
 #### at nyu
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_8799.jpeg" width="400" title="hover text">
+</p>
+
 
 
 <p align="center">
@@ -314,10 +192,6 @@ jk
 </p>
 
 
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_8799.jpeg" width="400" title="hover text">
-</p>
 
 
 <p align="center">
@@ -372,10 +246,6 @@ jk
 </p>
 
 
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_5755.jpeg" width="400" title="hover text">
-</p>
 
 
 <p align="center">
@@ -481,4 +351,132 @@ jk
 </p>
 
 
+
+
+
+
+#### others 分类障碍的照片们
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6535.jpeg" width="400" title="hover text">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0424.jpeg" width="350" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0049.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0088.jpeg" width="400" title="hover text">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0094.jpeg" width="400" title="hover text">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6841.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6789.jpeg" width="400" title="hover text">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_7057.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6861.jpeg" width="400" title="hover text">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_7156.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_7035.jpeg" width="400" title="hover text">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9942.jpeg" width="400" title="hover text">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9993.jpeg" width="400" title="hover text">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9994.jpeg" width="400" title="hover text">
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_5904.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0587.jpeg" width="350" title="hover text">
+</p>
+
+
+jk
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0773.jpeg" width="400" title="hover text">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_1538.jpeg" width="400" title="hover text">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_3111.jpeg" width="400" title="hover text">
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_8311.jpeg" width="400" title="hover text">
+</p>
 
