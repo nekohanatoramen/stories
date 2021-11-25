@@ -183,6 +183,11 @@
 
 所以我回去见她们都要分开见。。。
 
+当时是13年，豆豆因为长期不好好吃早饭得了肾结石（要好好吃早饭啊宝宝！！肾结石真的超级痛啊）
+
+我们评奖学金不光看成绩，还要看综合评分啥的，这个就比较tricky了，所以一班我们班都会先开个班会定个标准。豆豆因为生病缺席了。之后她交了自己的评估表，weiwei说她的评分不合标准，然后就因为这个吵了起来。
+
+我挺不喜欢这个综合评分的，好tricky呢，大家标准不一样很容易起争执（但是因为我的gpa比第二名高了好多，也影响不到我2333）
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0054.jpeg" width="400" title="hover text">
