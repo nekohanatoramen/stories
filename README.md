@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0049.jpeg" width="350" title="hover text">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0049.jpeg" width="400" title="hover text">
 </p>
 
 
