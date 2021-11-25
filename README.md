@@ -138,8 +138,8 @@
 
 就是叫我去找房子，就没有然后了，也么有出钱，也没有说大家一起凑个钱什么的，羊毛就可着一只羊薅了😂
 
-当时14年北京的房价就很可怕了，2 3 千一个月，押一付三，钱都要我自己出，他们叫我先垫上回头给我报销，然后就不管了www
-我感觉我去做了可能还是因为手里有钱。。。
+当时14年北京的房价就很可怕了，2 3 千一个月，押一付三，钱都要我自己出，他们叫我先垫上回头给我报销，然后就不管了www 当时还有点委屈，事后想想
+我感觉我去做了可能还是因为手里有闲钱吗www
 
 感觉北京租房子比美国租房子难，就是找不到那种专门出租的公寓（可能也是我不懂）北大附近，能租的起的都是老破小。于是我还是尽了我当时的全力“拯救”了一下。然而美帝同学还是不太满意。
 
@@ -164,15 +164,24 @@
 #### 2016年本科毕业
 
 
+图书馆前的班级合照（正常版）
+
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0055.jpeg" width="400" title="hover text">
 </p>
 
-
+图书馆前的班级合照（非正常版）
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0056.jpeg" width="400" title="hover text">
 </p>
+
+
+我旁边的是我们班的班长，叫陈思霨（霨霨）
+
+之前有一次评奖学金的时候，weiwei跟豆豆闹了好大的不愉快。之后的大学生活她们就基本不说话了。
+
+所以我回去见她们都要分开见。。。
 
 
 <p align="center">
@@ -184,11 +193,13 @@
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0057.jpeg" width="400" title="hover text">
 </p>
 
+我们班的少数民族，因为少数民族高考将分了，所以他们是短学制的（要5年毕业），其他人是8年毕业（本博连读），所以他们三个跟我一起毕业了。两个新疆人一个西藏人。
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0083.jpeg" width="400" title="hover text">
 </p>
 
+我旁边的是郑璞，他也修了数学双学位，我另外一边的是雷婉钰，也是双学位的同学。
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6482.jpeg" width="400" title="hover text">
