@@ -334,12 +334,6 @@ jk
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0528.jpeg" width="350" title="hover text">
 </p>
 
-元宵节在钰嫣家吃火锅
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0669.jpeg" width="350" title="hover text">
-</p>
-
 
 
 
@@ -419,7 +413,7 @@ jk
 
 
 <p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0076.jpeg" width="350" title="hover text">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0706.jpeg" width="350" title="hover text">
 </p>
 
 
