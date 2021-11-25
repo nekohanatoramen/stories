@@ -264,11 +264,19 @@
 
 #### 2018年8月
 
+
+
+刚刚入学rotation，我们有一个research adventure活动，就是随机分组到一个lab做个小project。这是我们当时的组，弄完了之后大家说一起拍张照，然后发现professor们的头在发光。。。。
+
+
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0046.jpeg" width="400" title="hover text">
 </p>
 
 
+又拍了一张
+
+我旁边的是一个韩国妹子，也是我们biostatistics项目的。
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0045.jpeg" width="400" title="hover text">
@@ -278,7 +286,7 @@
 
 #### 球球
 
-
+这是我那天一个人带着球球去看病的时候拍的，莫名有种 茕茕孑立 形影相吊 的感觉😂
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_1779.jpeg" width="400" title="hover text">
@@ -287,12 +295,11 @@
 
 #### at nyu
 
-
+我nyu 医学院这一级的中国同学们～ 
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_8799.jpeg" width="400" title="hover text">
 </p>
-
 
 
 <p align="center">
@@ -329,7 +336,7 @@
 
 
 
-同学来纽约玩
+7月的时候，master同学来纽约玩
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_1879.jpeg" width="400" title="hover text">
@@ -342,6 +349,7 @@
 </p>
 
 
+我自己包的粽子
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_4183.jpeg" width="400" title="hover text">
