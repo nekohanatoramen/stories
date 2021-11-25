@@ -388,6 +388,7 @@
 #### 搬家
 
 
+啊罗岛的故事有点漫长～ 我要拖更啦～ 以后再慢慢讲吧💗
 
 <p align="center">
   <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_6244.jpeg" width="400" title="hover text">
@@ -450,10 +451,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_0887.jpeg" width="400" title="hover text">
-</p>
 
 
 
