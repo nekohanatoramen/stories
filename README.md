@@ -87,13 +87,13 @@
 
 
 <p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9943.jpeg" width="400" title="hover text">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9993.jpeg" width="400" title="hover text">
 </p>
 
 
 
 <p align="center">
-  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9944.jpeg" width="400" title="hover text">
+  <img src="https://github.com/nekohanatoramen/stories/blob/main/photos/IMG_9994.jpeg" width="400" title="hover text">
 </p>
 
 
